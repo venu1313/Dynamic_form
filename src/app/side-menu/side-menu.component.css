@@ -1,0 +1,13 @@
+aside{
+    width: auto;
+    float: left;
+}
+
+.data{
+    height: 1150px;
+    width: 200px;
+    background-color: pink;
+}
+button{
+    vertical-align: center;
+}

@@ -1,0 +1,68 @@
+[
+    {
+        "username":"venu",
+        "id":"45",
+        "eid":"EOO60",
+        "name":"VENUGOPAL",
+         "password":"venu",
+         "role":"Admin",
+         "company":"cloud collab",
+         "city":"bangalore",
+         "sdate":"24/09/2019",
+         "edate":"   -",
+         "status":"Active"
+    },
+    {
+        "username":"admin",
+        "id":"04",
+        "eid":"EOO24",
+        "name":"Admin",
+         "password":"admin",
+         "role":"Admin",
+         "company":"cloud collab",
+         "city":"bangalore",
+         "sdate":"02/03/2020",
+         "edate":"   -",
+         "status":"Active"
+    },
+    {
+        "username":"user",
+        "id":"445",
+        "eid":"EOO56",
+        "name":"User ",
+         "password":"user",
+         "role":"Admin",
+         "company":"cloud collab",
+         "city":"bangalore",
+         "sdate":"12/07/2019",
+         "edate":" 06/01/2020",
+         "status":"In-Active"
+    },
+    {
+        "username":"sarath",
+        "id":"04",
+        "eid":"EOO62",
+        "name":"SARATH KUMAR",
+         "password":"sarath",
+         "role":"Supervisor",
+         "company":"cloud collab",
+         "city":"bangalore",
+         "sdate":"02/06/2019",
+         "edate":"   -",
+         "status":"Active"
+    },
+    {
+        "username":"rajesh",
+        "id":"67",
+        "eid":"EOO32",
+        "name":"RAJESH",
+         "password":"123",
+         "role":"Manger",
+         "company":"cloud collab",
+         "city":"bangalore",
+         "sdate":"20/04/2016",
+         "edate":" 04/08/2019",
+         "status":"In-Active"
+    }
+
+]

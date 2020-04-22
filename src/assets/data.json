@@ -1,0 +1,11 @@
+[
+    {
+        "type":"textbox",
+        "name":"uname",
+        "hint":" true",
+        "hintmsg":"Username",
+        "required":"true",
+        "label":" User Name"
+
+    }
+]
